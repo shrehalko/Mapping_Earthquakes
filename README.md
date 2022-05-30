@@ -45,7 +45,7 @@ We are adding three different **map styles**:
 
 **The final interactive world map looks as below:**
 
-<p align="center"> <img src = "earthquake_challenge/static/worldmap_gif.gif" width ="45%"> </p> 
+<p align="center"> <img src = "Earthquake_Challenge/static/worldmap_gif.gif" width ="45%"> </p> 
 
 ## <a name="resources"></a> Resources
 [1] [Code for Plotting earthquake data](earthquake_Challenge/static/js/challenge_logic.js) <br>
@@ -53,9 +53,11 @@ We are adding three different **map styles**:
 [3] Software: 
  * Visual Studio Code 1.64.2 
  * Chrome Developer Tools <br>
+ 
 [4] Languages:
  * Jva Script
  * HTML and CSS <br>
+
 [5] Libraries:<br>
  * D3
  * Leaflet

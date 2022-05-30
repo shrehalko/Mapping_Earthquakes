@@ -51,14 +51,14 @@ We are adding three different **map styles**:
 [1] [Code for Plotting earthquake data](earthquake_Challenge/static/js/challenge_logic.js) <br>
 [2] [HTML file for displaying the data](earthquake_challenge/index.html) <br>
 [3] Software: 
-* Visual Studio Code 1.64.2
-* Chrome Developer Tools
+ * Visual Studio Code 1.64.2 
+ * Chrome Developer Tools <br>
 [4] Languages:
-* Jva Script
-* HTML and CSS
-[5] Libraries:
-* D3
-* Leaflet
+ * Jva Script
+ * HTML and CSS <br>
+[5] Libraries:<br>
+ * D3
+ * Leaflet
 
 ## <a name="references"></a> References
 [Mapbox Styles](https://docs.mapbox.com/api/maps/styles/)<br>
